@@ -13,5 +13,5 @@ import io.cucumber.junit.CucumberOptions;
         monochrome = true
 )
 
-public class Activity6_json {
+public class Activity6 {
 }
